@@ -7,5 +7,5 @@ But I believe that as long as you have a dream in your heart, it will light up y
 So, let's witness my growth together!  
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=RayGicEFL&show_icons=true&locale=en&count_private=true&hide_border=true
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=RayGicEFL&show_icons=true&locale=en&count_private=true&hide_border=true"/>
 </p>
