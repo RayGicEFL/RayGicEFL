@@ -6,4 +6,6 @@ As what you see, I don't have any original project at least now, so I'm not real
 But I believe that as long as you have a dream in your heart, it will light up your life.  
 So, let's witness my growth together!  
 
-[![EFL 's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayGicEFL&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs)](https://github.com/RayGicEFL/github-readme-stats)
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=RayGicEFL&show_icons=true&locale=en&count_private=true&hide_border=true
+</p>
