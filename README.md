@@ -1,7 +1,6 @@
 ### Hi 👋!
 I'm EFL, an ordinary junior high school student from China.  
-At present, the repo that I mainly maintain ~~and also the only one I have~~ is [`jb-netfilter`](https://github.com/RayGicEFL/jb-netfilter),
-which is modified from [`ja-netfilter`](https://github.com/ja-netfilter/ja-netfilter).  
+At present, I'm working on a program which has modern UI/UX for 7zip.
 As what you see, I don't have any original project at least now, so I'm not really good at programming.  
 But I believe that as long as you have a dream in your heart, it will light up your life.  
 So, let's witness my growth together!  
